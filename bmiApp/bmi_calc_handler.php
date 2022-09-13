@@ -12,7 +12,7 @@ if(isset(($_GET['btn_calc']))){
         echo " Hello your BMI is $bmi";
     }
     else{
-        echo "wrong email or password";
+        echo "You entered a wrong email or password";
     }
 }
 ?>
